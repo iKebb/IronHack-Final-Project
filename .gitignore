@@ -1,3 +1,4 @@
 data/01_raw/*.txt 
 data/02_processed/*.csv 
 src/__pycache__
+app/__pycache__
